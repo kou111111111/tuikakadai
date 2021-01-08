@@ -35,4 +35,4 @@ https://studio.youtube.com/video/uoJItwsDvfI/edit
 西廣巧
 
 # ライセンス
-
+GNU General Public License v3.0
