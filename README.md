@@ -28,7 +28,7 @@ $ gcc tuika.c -o tuika
 $./tuika　
 
 # 動画URL
-
+https://studio.youtube.com/video/uoJItwsDvfI/edit
 
 # 製作者
 西廣巧
