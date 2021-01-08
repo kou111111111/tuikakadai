@@ -24,8 +24,8 @@ https://github.com/kou111111111/tuikakadai.git
 ↑最後に1から8を順に並べるのに必要になるブロックを動かす手数が表示される。
 
 # 動作方法
-$ gcc tuika.c -o tuika
-$./tuika　
+$ gcc tuika.c -o tuika（コンパイル）
+$　./tuika　（数列を入力した後にエンター）
 
 # 動画URL
 https://studio.youtube.com/video/uoJItwsDvfI/edit
