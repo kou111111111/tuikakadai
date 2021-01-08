@@ -33,3 +33,6 @@ https://studio.youtube.com/video/uoJItwsDvfI/edit
 
 # 製作者
 西廣巧
+
+# ライセンス
+
