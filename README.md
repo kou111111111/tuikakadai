@@ -5,7 +5,7 @@
 OS:Ubuntu 18.04
 
 # インストール方法
-
+https://github.com/kou111111111/tuikakadai.git
 # 解説
 3×3の数字のパズルをそろえるのに必要な手数を表示するプログラム。
 
