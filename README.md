@@ -25,6 +25,7 @@ https://github.com/kou111111111/tuikakadai.git
 
 # 動作方法
 $ gcc tuika.c -o tuika（コンパイル）
+
 $　./tuika　（数列を入力した後にエンター）
 
 # 動画URL
